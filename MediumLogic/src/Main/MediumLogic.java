@@ -10,4 +10,8 @@ public class MediumLogic {
 	public boolean closeFar(int a, int b, int c) {
 		  
 	}
+	//makeChocolate
+	public int makeChocolate(int small, int big, int goal) {
+		  
+	}
 }
